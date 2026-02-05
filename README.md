@@ -18,5 +18,6 @@ This project has the following dependencies, as shown in `requirements.txt`:
 - [chromadb](https://github.com/chroma-core/chroma)
 ### Quick Start
 
-To get started, create and configure the variables in the `.env` file as per example in `example.env`.
+To get started, create and configure the variables in the `.env` file as per example in `example.env`. The context data must be added to a `dataset` folder in the directory.
+
 The project can be set up either by installing the dependencies with a package manager and running `main.py`, or by using [Docker](https://www.docker.com/) to run it in an interactive shell.
