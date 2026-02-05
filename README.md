@@ -1,6 +1,6 @@
 ## What is it?
 This project implements a basic Retrieval-Augmented Generation (RAG) pipeline, using a simple CLI loop for interactive Q&A.
-1. Load structured data (CSV).
+1. Load structured data (CSV) from the /dataset folder.
 2. Convert to text.
 3. Embed and store in vector DB.
 4. Get user query.
